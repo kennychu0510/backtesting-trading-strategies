@@ -6,3 +6,5 @@ plots/
 share/
 pyvenv.cfg
 *.html
+.vscode/settings.json
+results.xlsx
